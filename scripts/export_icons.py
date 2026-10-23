@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: GPL-3.0-only
 """Export approved ONWILO artwork into frontend icon formats.
 
 This script resizes and packages the artwork; it does not redraw the logo.

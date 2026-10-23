@@ -103,3 +103,7 @@ python3 scripts/export_icons.py
 ~~~
 
 导出脚本只负责缩放、格式转换和 maskable 留白，不重新设计图案。原始素材路径固定在 assets/brand/original/，生成文件可以直接提交到 Git。
+
+## 许可证
+
+本项目采用 **GNU General Public License v3.0（GPL-3.0-only）**。完整条款见 [LICENSE](LICENSE)。
